@@ -1,0 +1,18 @@
+.section_container{
+    display: flex;
+    width: 100%;
+    height: 400px;
+}
+
+.imagePart{
+    flex: 50%;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.textPart{
+    flex: 50%;
+}
+

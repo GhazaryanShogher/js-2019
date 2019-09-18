@@ -1,0 +1,26 @@
+.footer_image {
+    height: 600px;
+    width: 100%;
+}
+
+.footer_image img{
+    width: 100%;
+    background-size: cover;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    line-height: 40px;
+}
+
+
+.social_items{
+    display: flex;
+    align-items: center;
+    margin: 50px;
+    width: 250px;
+    justify-content: space-between;
+}

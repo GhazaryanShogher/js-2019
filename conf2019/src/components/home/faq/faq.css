@@ -1,0 +1,25 @@
+.faq_info {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+}
+
+.faq_title {
+    margin: 60px 0;
+    font-size: 40px;
+}
+
+.single_faq{
+    margin: 20px 0;
+    width: 510px;
+    color: #C5C5C5;
+}
+
+.single_faq_title{
+    margin: 15px 0;
+    font-size: 22px;
+    color: white;
+}
